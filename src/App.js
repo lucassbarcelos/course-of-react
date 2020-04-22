@@ -13,6 +13,7 @@ class App extends Component {
           My Hobbies: do videos at tiktok
         </Person>
         <Person name="Luck" age="1" />
+        <Person name="Jully" age="11" />
       </div>
     );
   }
